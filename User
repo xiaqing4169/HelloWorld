@@ -1,0 +1,3 @@
+public void getUserList(){
+  List list = this.userService().getUserList();
+}
